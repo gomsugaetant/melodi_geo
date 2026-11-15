@@ -1,0 +1,13 @@
+{
+  "name": "melodi_geo",
+  "title": "MELODI Géographie",
+  "version": "1.0.0",
+  "description": "Référentiel géographique administratif (pays, régions, villes et zones commerciales).",
+  "author": "BYT3LAB",
+  "category": "localization",
+  "icon": "public",
+  "depends": [
+    "base"
+  ],
+  "depends_python": []
+}
